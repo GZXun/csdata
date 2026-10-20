@@ -12,7 +12,7 @@ CSDATA is a web-based tool for players and market observers interested in Counte
 
 **[Visit CSDATA](https://cs2monitor.cn)**
 
-**Website language:** The website interface is currently primarily in Chinese. This English introduction explains what the service offers and how to get started.
+**Website language:** The website interface is currently primarily in Chinese. An English-language version of the website is planned for a future update. A release date has not been announced. These English documents explain what the service offers and how to get started.
 
 > This repository contains product information and usage guidance. CSDATA is provided as an online service; its application source code is not published here.
 
@@ -54,7 +54,7 @@ Custom monitoring targets are visible to the account owner and site administrato
 
 Basic access includes the homepage overview and selected previews. Full historical records, detailed signals, monitored-account information, and custom monitoring depend on account entitlements. Check the website for current prices, limits, and availability.
 
-Further documentation is currently in Chinese: [Feature guide](FEATURES.md) · [FAQ](FAQ.md).
+Explore the English documentation: [Feature guide](FEATURES.en.md) · [FAQ](FAQ.en.md) · [Content and rights notice](NOTICE.en.md).
 
 ## How to interpret the data
 
@@ -72,4 +72,4 @@ Star this repository to bookmark the introduction, or share the website with oth
 
 ---
 
-This repository does not grant an open-source software license for the application. CS2, Steam, and other third-party names and trademarks belong to their respective owners. References to those services do not imply official affiliation, authorization, or endorsement. [Content and rights notice (Chinese)](NOTICE.md).
+This repository does not grant an open-source software license for the application. CS2, Steam, and other third-party names and trademarks belong to their respective owners. References to those services do not imply official affiliation, authorization, or endorsement. [Content and rights notice](NOTICE.en.md).
