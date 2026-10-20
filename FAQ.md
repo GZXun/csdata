@@ -1,3 +1,5 @@
+**简体中文** | [English](FAQ.en.md)
+
 # 常见问题
 
 [返回首页](README.md) · [功能介绍](FEATURES.md) · [访问网站](https://cs2monitor.cn)
