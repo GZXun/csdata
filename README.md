@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 <p align="center">
   <img src="assets/csdata-logo.svg" width="260" alt="CSDATA" />
 </p>
@@ -57,7 +59,5 @@ CSDATA 提供数据整理与观察工具，不提供交易撮合或收益保证�
 欢迎 Star 收藏本介绍页，或将网站分享给同样关注 CS2 饰品数据的朋友。
 
 ---
-
-**English:** CSDATA is a web-based dashboard for observing CS2 item market changes, rule-based signals, and public Steam inventory changes. This repository contains product information only; the application source code is not published here.
 
 CS2、Steam 及相关第三方商标归各自权利人所有。本项目介绍不表示获得相关平台的官方授权或背书。[内容与权利说明](NOTICE.md)
