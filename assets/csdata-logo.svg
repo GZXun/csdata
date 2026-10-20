@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" role="img" aria-labelledby="title">
+  <title id="title">CSDATA</title>
+  <defs>
+    <linearGradient id="csdata-grad" x1="0" y1="0" x2="260" y2="0">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4, 8) scale(0.625)">
+    <path d="M14 13h18c13.7 0 23 7.55 23 19s-9.3 19-23 19H14V13Zm10 9v20h7.5C39.9 42 45 38.25 45 32s-5.1-10-13.5-10H24Z" fill="#0f766e" fill-rule="evenodd"/>
+    <path d="M14 38.5 28.5 24H39L24 39v12H14V38.5Z" fill="#45d4bf"/>
+  </g>
+  <text x="56" y="42" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="850" fill="url(#csdata-grad)" letter-spacing="0">CSDATA</text>
+</svg>
