@@ -1,3 +1,5 @@
+**简体中文** | [English](FEATURES.en.md)
+
 # CSDATA 功能介绍
 
 [返回首页](README.md) · [访问网站](https://cs2monitor.cn) · [常见问题](FAQ.md)
